@@ -1,5 +1,9 @@
 # Spuyten Duyvil-Kingsbridge
 
+### Highlighted Map
+
+![highlightImg](https://user-images.githubusercontent.com/92651952/142289321-740f0e69-53c4-4acb-95ab-e4dad842a394.png)
+
 ### Demographics and Statistics
 
 Spuyten Duyvil is a neighborhood in the Bronx, New York City. It has the zip code of 10463, an 
@@ -42,7 +46,7 @@ alcohol in restaurants. This indicates the availability for restaurants more sui
 living in the area. This in particular is great for the neighborhood, as other data indicates that the 
 median age for this neighborhood is 40.4 years.
 
-### Restaurant Map
+### Restaurants Map
 
 <dl>
 <iframe src="Spuyten Duyvil-Kingsbridge.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
