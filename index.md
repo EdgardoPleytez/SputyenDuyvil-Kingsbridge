@@ -28,6 +28,10 @@ ideal candidate for anyone looking to stop by.
 
 ### Data Analysis
 
+![restaurantsSpuytenDuyvil](https://user-images.githubusercontent.com/92651952/142274797-7c38202b-7948-4e20-b54c-7d505679b458.png)
+
+![alcoholSpuytenDuyvil](https://user-images.githubusercontent.com/92651952/142274835-6d87f728-1aae-4cec-9919-413ebd7c51cc.png)
+
 Spuyten Duyvil-Kingsbridge coincides with the pattern of other restaurants in the Bronx. It has a 
 large number of restaurants open for both sidewalk and roadway seating. It does however also have a 
 larger amount of sidewalk seating than roadway seating, and this could be because of the fact that 
@@ -37,3 +41,7 @@ both sidewalk and roadway seatings. Spuyten Duyvil-Kingsbrudge also has a large 
 alcohol in restaurants. This indicates the availability for restaurants more suited to older citizens 
 living in the area. This in particular is great for the neighborhood, as other data indicates that the 
 median age for this neighborhood is 40.4 years.
+
+### Restaurant Map
+
+
