@@ -1,6 +1,6 @@
 #Welcome to Spuyten Duyvil-Kingsbridge
 
-###Demographics and Statistics
+##Demographics and Statistics
 
 Spuyten Duyvil is a neighborhood in the Bronx, New York City. It has the zip code of 10463, an 
 area of 1.45 square miles, and a median income of $58,408 with $35,989 per capita income. It
@@ -14,7 +14,7 @@ Hudson Park to look at the beautiful greenery, and the TCR The Club of Riverdale
 great athletic and wellness services such as sports, spas, and even afterschool and summer
 programs.
 
-###Ranking Spuyten Duyvil-Kingsbridge
+##Ranking Spuyten Duyvil-Kingsbridge
 
 There are many different categories in which to analyze a neighborhood from, such as low crime rates, 
 multiple forms of transportation, popularity, variety of eateries, and affordability. After 
@@ -26,7 +26,7 @@ Bronx as a whole. was rated incredibly highly in terms of walkability and access
 it combined the convenience of bus services, subway services, and residential walkways making it an 
 ideal candidate for anyone looking to stop by.
 
-###Data Analysis
+##Data Analysis
 
 Spuyten Duyvil-Kingsbridge coincides with the pattern of other restaurants in the Bronx. It has a 
 large number of restaurants open for both sidewalk and roadway seating. It does however also have a 
