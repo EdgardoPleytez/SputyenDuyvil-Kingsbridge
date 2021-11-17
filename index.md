@@ -1,7 +1,5 @@
 # Spuyten Duyvil-Kingsbridge
 
-## Welcome to Spuyten Duyvil-Kingsbridge
-
 ### Demographics and Statistics
 
 Spuyten Duyvil is a neighborhood in the Bronx, New York City. It has the zip code of 10463, an 
