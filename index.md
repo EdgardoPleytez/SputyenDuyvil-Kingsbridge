@@ -1,4 +1,6 @@
-# Welcome to Spuyten Duyvil-Kingsbridge
+# Spuyten Duyvil-Kingsbridge
+
+## Welcome to Spuyten Duyvil-Kingsbridge
 
 ### Demographics and Statistics
 
